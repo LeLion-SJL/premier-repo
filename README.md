@@ -1,3 +1,3 @@
 # Try Out
 
-Prenier try out of github
+Premiertry out of github
